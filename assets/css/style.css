@@ -17,6 +17,6 @@ body
    margin-bottom: 0px;
  }
 
- .carousel, .carousel img{
+ .carousel, .carousel .item{
    max-height: 200px;
  }
