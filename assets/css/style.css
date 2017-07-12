@@ -1,12 +1,14 @@
-nav
+.navbar-default
 {
-  background-color: white;
-  font-color: black;
+  background-color:#3E835C;
+  font-color:#000000;
+  font-size: 20px;
+
 }
 
 
 body
 {
-  background-color:navy;
+  background-color:gray;
   font-size:15px;
 }
