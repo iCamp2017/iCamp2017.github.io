@@ -16,3 +16,7 @@ body
  {
    margin-bottom: 0px;
  }
+
+ .carousel{
+   max-height: 200px;
+ }
