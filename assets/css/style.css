@@ -10,3 +10,7 @@ body
   background-color:navy;
   font-size:15px;
 }
+
+.carousel-inner .item {
+  width: 100%;
+}
