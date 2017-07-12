@@ -19,4 +19,5 @@ body
 
  .carousel, .carousel .item{
    max-height: 200px;
+   overflow: hidden;
  }
