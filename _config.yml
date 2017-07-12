@@ -1,2 +1,3 @@
 collections:
-  - programs
+  programs:
+    output: true
