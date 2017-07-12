@@ -1,11 +1,12 @@
 nav
 {
-  background-color:black;
-  font-color:white;
+  background-color: white;
+  font-color: black;
 }
 
 
 body
 {
-  background-color: navy;
+  background-color:navy;
+  font-size:15px
 }
