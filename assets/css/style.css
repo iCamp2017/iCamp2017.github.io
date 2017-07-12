@@ -15,8 +15,10 @@ body
  .navbar
  {
    margin-bottom: 0px;
+   border-color: gray;
  }
 
- .carousel, .carousel img{
+ .carousel, .carousel .item{
    max-height: 200px;
+   overflow: hidden;
  }
