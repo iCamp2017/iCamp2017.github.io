@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
+
+.splashimage {
+  background-image: url("../catalina.jpg");
+  height: 400px;
+  font-size: 50px;
+  color: yellow;
+  font-family: Bellefair, serif;
+}
+
+#topHeading {
+  background-color: purple;
+  padding: 50px;
+  border: 1px solid blue;
+}
