@@ -22,3 +22,7 @@ body
    max-height: 600px;
    overflow: hidden;
  }
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover
+{
+  padding:0px;
+}
