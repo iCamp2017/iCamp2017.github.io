@@ -19,7 +19,7 @@ body
  }
 
  .carousel, .carousel .item{
-   max-height: 400px;
+   max-height: 650px;
    overflow: hidden;
  }
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover
