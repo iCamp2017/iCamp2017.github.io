@@ -12,7 +12,7 @@ body
   background-color:#6c83b9;
   font-size:15px;
 }
- .navbar
+ .navbar-nav
  {
    margin-bottom: 0px;
    border-color: gray;
@@ -27,6 +27,7 @@ body
   padding:0px;
 }
 
-.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-    padding: 0px;
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover
+{
+  padding: 0px;
 }
