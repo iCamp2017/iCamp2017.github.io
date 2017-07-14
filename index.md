@@ -5,8 +5,9 @@ layout: default
 
 
 
-contact information
-Address: 700 South High St, West Chester, PA 19383
-Phone: +1 610-436-1000
-Acceptance rate: 59% (2017)
-Founded: 1871
+<h6>>contact information
+<p>Address: 700 South High St, West Chester, PA 19383</p>
+<p>Phone: +1 610-436-1000</p>
+<p>Acceptance rate: 100% (2017)</p>
+<p>Founded: 1871</p>
+</h6
