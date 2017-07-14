@@ -8,7 +8,7 @@ categories:
 location: 55 N 22nd St, Philadelphia, PA 19103
 website: https://scienceleadership.org/
 telephone:
-image: Chess-king.JPG
+image: Chess_king.jpg
 ---
 
 Masterminds chess club is a great way for students to learn tactics, logic, and strategy! Club meetings weekly for all skill levels.

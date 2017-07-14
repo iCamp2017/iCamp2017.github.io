@@ -8,7 +8,7 @@ categories:
 location: 421 W Bristol St, Philadelphia, PA 19140
 website: http://mastermindschess.org/
 telephone:
-image: Chess-king.JPG
+image: Chess_king.jpg
 ---
 
 Masterminds chess club is a great way for students to learn tactics, logic, and strategy! Club meetings weekly for all skill levels.
