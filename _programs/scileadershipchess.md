@@ -1,10 +1,6 @@
 ---
 title: Science Leadership Academy chess club
 organization: Science Leadership Academy
-categories:
-  - games
-  - clubs
-  - chess
 location: 55 N 22nd St, Philadelphia, PA 19103
 website: https://scienceleadership.org/
 telephone:
