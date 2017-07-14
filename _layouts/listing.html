@@ -38,13 +38,13 @@
 <div class="container-fluid">
 {% for program in site.programs %}
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-4">
 <a href="{{ program.website}}"> <h2>{{ program.title }}</h2></a>
 
     <img class="img-responsive" src="assets/images/{{ program.image}}">
 <br /></div>
 
-      <div class="col-md-6">
+      <div class="col-md-4">
     <a href="https://www.google.com/maps/place/{{ program.location}}">
     {{ program.location }}
 {{ program.categories }}
