@@ -9,10 +9,8 @@ location: 600 Eagleview Boulevard, Suite 100 Exton, PA 19341
 website: http://www.achievementcharter.com/
 telephone: (877)-570-1657
 image: students_raising_hands.jpg
+description: The achievement house cyber charter school (AHCCS), is a tuition-free, nonprofit, public cyber charter school within the Pennsylvania area that serves students grades 7-12 a individual academic need for success.
 ---
-
-The achievement house cyber charter school (AHCCS), is a tuition-free, nonprofit, public cyber charter school within the Pennsylvania area that serves students grades 7-12 a individual academic need for success.
-
 We are Supportive
 
 Our school, (AHCCS) are supportive and caring about your personal environment in order to have a safe and welcoming learning experience than in traditional classroom. Our counselors, mentors, homeroom coaches, and teachers will encourage and guide you through your navigational pathway to graduation and a successful future.
