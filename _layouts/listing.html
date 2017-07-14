@@ -40,16 +40,17 @@
 <div class="row">
   <div class="col-md-6">
 <a href="http://www.ymca.net/"> <h2>{{ program.title }}</h2></a>
-    <img class="img-fluid" src="assets/images/{{ program.image }}">
-    {{ program.categories }}
-    curriculum
-    special education
-    english language learning
+    <img class="img.responsive" src="assets/images/{{ program.image }}">
+
+
 </div>
 
       <div class="col-md-6">
     <a href="https://www.google.com/maps/place/{{ program.location}}">
-    {{ program.location }}</a>
+    {{ program.location }}
+{{ program.categories }}
+
+  </a>
   </div>
   </div>
 {% endfor %}
