@@ -2,4 +2,4 @@
 title: Information
 layout: default
 ---
-<h2> <hr> Info About Us </hr> </h2>
+<h2> Info About Us </h2>
