@@ -2,7 +2,8 @@
 title: 215teens
 layout: default
 ---
-<h2>mission statement</h2>
+
+<h2 id="mission"> mission statement</h2>
 
 
 
