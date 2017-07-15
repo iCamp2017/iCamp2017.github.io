@@ -1,5 +1,5 @@
 ---
-title: 215teens
+title: Information
 layout: default
 ---
 
