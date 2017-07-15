@@ -1,10 +1,6 @@
 ---
 title: Achievement House cyber charter school
 organization: MSA CESS
-categories:
-- curriculum
-- special education
-- english language learning
 location: 600 Eagleview Boulevard, Suite 100 Exton, PA 19341
 website: http://www.achievementcharter.com/
 telephone: (877)-570-1657

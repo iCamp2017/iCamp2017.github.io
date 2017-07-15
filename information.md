@@ -1,7 +1,12 @@
 ---
 title: Information
-layout: default
+layout: Information
 ---
+<<<<<<< HEAD
+=======
+=======
 <h2><b>Info About Us</b></h2>
 
-<img src="pic_for_site.jpg">
+
+<a href="pic_for_site.jpg" img "assets/images/pic_for_site.jpg"></a>
+>>>>>>> fa9b713c1bb11bd695f3f5edf92acbfb721a0969

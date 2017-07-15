@@ -1,10 +1,6 @@
 ---
 title: Masterminds chess club
 organization: Masterminds chess club
-categories:
-  - games
-  - clubs
-  - chess
 location: 421 W Bristol St, Philadelphia, PA 19140
 website: http://mastermindschess.org/
 telephone:
