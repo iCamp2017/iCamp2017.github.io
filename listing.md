@@ -1,5 +1,5 @@
 ---
 title: Listings
-layout: default
+layout: listing
 ---
 This content won't display
