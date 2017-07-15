@@ -1,6 +1,6 @@
 ---
 title: Information
-layout: Information
+layout: default
 ---
 <<<<<<< HEAD
 <<<<<<< HEAD
