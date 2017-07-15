@@ -2,4 +2,4 @@
 title: information
 layout: default
 ---
- <img padding="500" src="assets/images/pic_for_site.jpg"/>
+ <img width="600" hieght="300" src="assets/images/pic_for_site.jpg"/>
