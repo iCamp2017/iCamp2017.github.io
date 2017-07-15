@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div class="container-fluid" id="topcontainer">
+<img src="assets/images/icamp2017.jpg"alt="logo"/>
+</div>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+<ul class="nav navbar-nav">
+<li role="presentation"><a herf="/">menu</a></li>
+<li role="presentation"><a href="/listing.html">programs</a></li>
+<li role="presentation"><a href="#">about us </a></li>
+
+</ul>
+  <form class="navbar-form navbar-right" role="search">
+  <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search">
+  </div>
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>
+<button type="button" class="btn btn-default navbar-btn  navbar-right">Sign in</button>
+
+<button type="button" class="btn btn-default navbar-btn  navbar-right">log in</button>
+</div>
+
+</nav>
+
+
+<!-- Correct -->
+
+<div class="container-fluid">
+{% for program in site.programs %}
+<div class="row">
+  <div class="col-md-6">
+
+<a href="{{ program.website}}"> <h2>{{ program.title }}</h2></a>
+
+    <img class="img-responsive" src="assets/images/{{ program.image}}" />
+<br /></div>
+
+      <div class="col-md-6">
+<br /> <br /><br /> <br />    <a href="https://www.google.com/maps/place/{{ program.location}}">
+    {{ program.location }}  </a> <br />
+    {{ program.telephone}} <br />
+    {{ program.description}}<br />
+
+{{ program.categories }}
+
+<br /> <br />
+  </div>
+  </div>
+
+{% endfor %}
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   <!-- Include all compiled plugins (below), or include individual files as needed -->
+   <script src="assets/js/bootstrap.min.js"></script>
+
+<div id="cool_icons">
+<h6><b>Contact Information</b></h6>
+<a href="https://www.facebook.com/"><img width="40px" class="iconimg" src="assets/images/facebook_icon.jpg"></a>
+<a href="https://twitter.com/"><img width="40px" class="iconimg" src="assets/images/Twitter_logo.jpg"></a>
+<a href="https://www.instagram.com/"><img width="40px" class="iconimg" src="assets/images/instagram.jpg"></a>
+<a href="https://www.snapchat.com/"><img width="40px" class="iconimg" src="assets/images/snapchat_icon.jpg"></a>
+</div>
+
+</body>
+
+</html>
